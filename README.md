@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @eebeohar
-- 👀 I’m interested in physics and deep learning
-- 💞️ I’m looking to collaborate on high energy physics or gravity related projects
+- 👀 I’m interested in physics and machine learning
+- 💞️ I’m looking to collaborate on physics-oriented data analysis projects
 - 📫 How to reach me: eeshan.beohar@gmail.com
