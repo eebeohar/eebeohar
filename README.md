@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Eeshan
-- 👀 I’m interested in physics and machine learning
-- 💞️ I’m looking to collaborate on physics-oriented data analysis projects
+- 👀 I’m interested in cosmology and machine learning
 - 📫 How to reach me: eeshan.beohar@gmail.com
